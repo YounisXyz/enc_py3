@@ -15,13 +15,12 @@ pkg install git
 ```
 ### [ For Run ] 
 ```
-cd enc_py3
 git clone https://github.com/YounisXyz/enc_py3
 cd enc_py3
 python marshal.py
 ```
 ### [ Image ] 
-<img src="https://ibb.co/jWGPyfS" />
+<img src="https://github.com/YounisXyz/enc_py3/blob/main/image/Screenshot_20231128-083416.jpg" />
 
 ## MY SOCIAL MEDIA
 [![Github](https://img.shields.io/badge/Github-YounisXyz-dark?style=for-the-badge&logo=github)](https://github.com/YounisXyz)
